@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "pick": "ts-node index.ts",
+    "pick": "ts-node src/index.ts",
     "lint": "eslint --fix src/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
